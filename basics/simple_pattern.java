@@ -6,8 +6,7 @@ public class simple_pattern {
         System.out.println("**");
         System.out.println("***");
         System.out.println("****");
-      
+
     }
 
-   
 }
