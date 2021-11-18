@@ -1,4 +1,4 @@
-package basics;
+
 
 import java.util.*;
 public class compare_two_nums {
