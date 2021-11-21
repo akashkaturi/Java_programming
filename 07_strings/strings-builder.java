@@ -31,7 +31,7 @@ public class strings {
         System.out.println(n.concat("sh"));
         String companies = "BOA,TCS,WIPRO,MUSIGMA,AMAZON,APPLE,GOOGLE";
         String allcompanies[] = companies.split(",");
-        for (String company:allcompanies){
+        for (String company : allcompanies) {
             System.out.println(company);
         }
     }
